@@ -91,4 +91,4 @@ For questions or suggestions, please contact harisjaved010@gmail.com.
 ## FAQs
 
 **Q:** How can I customize the responses of the AI assistant?
-**A:** You can modify the tools/functions defined in `functions.py` to tailor the assistant's behavior to your needs.
+**A:** You can modify the tools/functions which are defined in `functions.py` to tailor the assistant's behavior to your needs.
