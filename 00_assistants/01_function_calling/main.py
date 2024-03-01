@@ -2,13 +2,12 @@ import os
 import json
 import httpx
 import asyncio
-import os
 from dotenv import load_dotenv
 from datetime import datetime
 from fastapi import FastAPI, HTTPException, Depends,status
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
-from sqlalchemy import URL, func
+from sqlalchemy import URL
 from sqlmodel import SQLModel, Field, Session, create_engine, select
 import openai
 from openai.types.beta.threads.run import Run
