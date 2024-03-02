@@ -84,6 +84,10 @@ Contributions are welcome! Follow these steps to contribute to the project:
 
 This project was created by Harry.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact Information
 
 For questions or suggestions, please contact harisjaved010@gmail.com.
